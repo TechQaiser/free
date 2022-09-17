@@ -1,2 +1,2 @@
 import wo
-from wo import ______xXx___
+from wo import m6263()
